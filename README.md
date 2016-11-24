@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hello peeps!
+
+This is a test repository by me :)
